@@ -28,6 +28,3 @@ Linear Support Vector Machine with Stochastic Gradient Decent Training for News 
 <img src="RESULT/img/res_epoch_1000.png"
      alt="Markdown Monster icon" width="250"
      style="float: left;"/>    
-     
-<br />
-Th
